@@ -32,9 +32,9 @@ Currently, I’m seeking **remote opportunities with international companies**, 
 
 Here are some projects that demonstrate my experience with Python, AI, automation, and cloud solutions:
 
-- 🔹 **Python Process Automation** – Automating real-world tasks using Python  
-- 🔹 **AI Text Analyzer** – AI-powered text analysis application  
-- 🔹 **Azure Python Cloud App** – Python application designed for cloud environments  
+🔹 **Python Process Automation** – Automating real-world tasks using Python  
+🔹 **AI Text Analyzer** – AI-powered text analysis application  
+🔹 **Azure Python Cloud App** – Python application designed for cloud environments  
 
 > Repositories will be updated continuously as I build and improve solutions.
 
