@@ -42,5 +42,5 @@ Here are some projects that demonstrate my experience with Python, AI, automatio
 
 ## 🌍 Contact & Links
 
-- 💼 LinkedIn: https://www.linkedin.com/in/thiago-barriento-253769380/  
+- 💼 LinkedIn: https://www.linkedin.com/in/thiago-barriento/
 - 📧 Open to remote opportunities worldwide
