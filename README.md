@@ -1,46 +1,48 @@
 # Hi, I'm Thiago 👋
 
-Python Developer focused on **Artificial Intelligence, Automation, and Cloud Solutions** using **Microsoft Azure**.
+IT graduate at the beginning of my career, focused on **Python**, **automation**, and **Artificial Intelligence**, with a strong interest in cloud technologies.
 
 ---
 
 ## 👨‍💻 About Me
 
-I work with **Python, AI, automation, and Azure cloud services** to build efficient, scalable, and practical solutions for real-world problems.
+I am a recently graduated IT professional, currently building my skills in **Python**, **automation**, and **AI/GenAI fundamentals**.
 
-I have hands-on experience developing **Python applications**, creating **automation workflows**, and integrating **AI-driven solutions**. I also work with **Microsoft Azure**, applying cloud concepts and services to deploy and manage applications.
+I have around **three months of hands-on experience in an IT environment through the Brazilian Army**, where I developed discipline, responsibility, and a structured, process-oriented mindset.
 
-I hold **AZ-900 and AI-900 certifications**, which provide a solid foundation in cloud computing and artificial intelligence concepts.
+At the moment, I am studying and practicing:
+- Python for scripting and automation  
+- Fundamentals of Artificial Intelligence and GenAI  
+- Microsoft Azure fundamentals  
 
-I’m proactive, self-driven, and constantly improving my skills, especially in **AI applications, backend development, and cloud architectures**.
+My focus is on **learning through practice**, building small projects, and continuously improving my technical skills.
 
-Currently, I’m seeking **remote opportunities with international companies**, where I can contribute, learn, and grow as a Python developer.
-
----
-
-## 🛠 Tech Stack
-
-- **Languages:** Python  
-- **AI & Automation:** AI APIs, automation scripts, data processing  
-- **Cloud:** Microsoft Azure (AZ-900, AI-900)  
-- **Backend:** APIs, basic web services  
-- **Tools:** Git, GitHub  
+I am seeking my **first opportunity in the technology field**, preferably in a **remote or hybrid environment**, where I can learn, contribute, and grow professionally.
 
 ---
 
-## 📂 Featured Projects
+## 🛠 Tech Stack (Learning & Practice)
 
-Here are some projects that demonstrate my experience with Python, AI, automation, and cloud solutions:
-
-🔹 **Python Process Automation** – Automating real-world tasks using Python  
-🔹 **AI Text Analyzer** – AI-powered text analysis application  
-🔹 **Azure Python Cloud App** – Python application designed for cloud environments  
-
-> Repositories will be updated continuously as I build and improve solutions.
+- **Language:** Python  
+- **AI & Automation:** fundamentals, scripts, basic data processing  
+- **Cloud:** Microsoft Azure (fundamentals – studies in progress)  
+- **Version Control:** Git, GitHub  
 
 ---
 
-## 🌍 Contact & Links
+## 📂 Projects
+
+This repository will gradually include **practice projects** related to:
+- Python automation  
+- AI fundamentals and small experiments  
+- Cloud fundamentals with Azure  
+
+> Projects will be added and improved as I continue learning and building hands-on experience.
+
+---
+
+## 🌍 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/thiago-barriento/
-- 📧 Open to remote opportunities worldwide
+- 🌐 Open to remote opportunities
+
